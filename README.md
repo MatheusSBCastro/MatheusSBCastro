@@ -1,7 +1,3 @@
-# Matheus Stefano
-
-Meu foco é Engenharia de IA. Reúno aqui projetos de RAG, automação com IA e desenvolvimento web.
-
 ## Projetos
 
 - [Evidence RAG](https://github.com/MatheusSBCastro/evidence-rag): busca respostas em uma base de documentos em português, confere as citações e inclui uma avaliação da recuperação. A demonstração roda sem chave de API. A integração com LLM ainda precisa de validação com uma chamada real.
